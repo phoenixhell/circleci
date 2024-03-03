@@ -17,4 +17,3 @@ workflows:
   cooking:
     jobs:
       - compile
-
